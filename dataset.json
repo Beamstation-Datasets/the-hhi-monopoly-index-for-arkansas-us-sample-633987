@@ -1,0 +1,22 @@
+{
+  "base_price": 4995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for Arkansas, US",
+  "export_job_id": "e08121aa-0fd6-47ea-a5cc-da426c6702b8",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 633987,
+  "location_name": "Arkansas",
+  "location_type": "state",
+  "repo_name": "the-hhi-monopoly-index-for-arkansas-us-sample-633987",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/633987/beamstation_633987_restaurants-us-ar_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 37,
+  "sample_sha256": "5f97271a0e0798b725f1a6dd92d29e96dc28846318064be013719a590086bf48",
+  "sample_size_bytes": 153617,
+  "total_records": 370,
+  "updated_at": "2026-04-08T00:43:23.502407+00:00"
+}
