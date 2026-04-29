@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Arkansas, US
 
-> Free BeamStation sample export with 28 rows and masked direct-contact fields.
+> Free BeamStation sample export with 30 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `633987` |
 | Location | Arkansas |
 | Category | Restaurants |
-| Full dataset size | 284 records |
-| Free sample size | 28 records (9.86%) |
-| Last export | 2026-04-22T12:32:07.986217+00:00 |
+| Full dataset size | 303 records |
+| Free sample size | 30 records (9.9%) |
+| Last export | 2026-04-29T13:27:22.518519+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-arkansas-us-sample-633987/releases/download/sample-latest/beamstation_633987_restaurants-us-ar_SAMPLE_DIST.csv) |
 
 ## What is in this sample
