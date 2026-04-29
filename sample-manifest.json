@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7c0eb6b9-e3ab-4d46-a3d6-20ef89ebde30",
+  "export_job_id": "cb2575da-2554-489e-9745-e4a7ea9da91b",
   "id_short": 633987,
-  "published_at": "2026-04-23T07:20:51Z",
+  "published_at": "2026-04-29T19:25:43Z",
   "repo_name": "the-hhi-monopoly-index-for-arkansas-us-sample-633987",
   "sample_asset_name": "beamstation_633987_restaurants-us-ar_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/633987/beamstation_633987_restaurants-us-ar_SAMPLE_DIST.csv",
-  "sample_records": 28,
-  "sample_sha256": "85e8e64fd8aa13ed96e62b15031005cdcadb4ff1d0f9d771c2bcdcab7053e51c",
-  "sample_size_bytes": 118754,
-  "total_records": 284
+  "sample_records": 30,
+  "sample_sha256": "5cbb6a75bafe5b489adb1e020e350769d2d61fb6a9a8fd09f9a48952079549a9",
+  "sample_size_bytes": 122079,
+  "total_records": 303
 }
